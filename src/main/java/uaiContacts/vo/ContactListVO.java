@@ -65,5 +65,4 @@ public class ContactListVO {
 		this.contacts = contacts;
 	}
 	
-	
 }

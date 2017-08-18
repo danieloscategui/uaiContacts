@@ -8,7 +8,7 @@
 		type="javax.sql.DataSource"
 		initialSize="1"
 		maxActive="20"
-		maxIdle="30"
+		maxIdle="3"
 		minIdle="1"
 		maxWait="5000"
 		username="postgres"

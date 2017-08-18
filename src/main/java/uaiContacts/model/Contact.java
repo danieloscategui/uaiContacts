@@ -15,7 +15,6 @@ public class Contact {
 	private String email;
 
 	public Contact() {
-		// TODO Auto-generated constructor stub
 	}
 	
 	public Contact(int id, String name, String phoneNumber, String email) {
